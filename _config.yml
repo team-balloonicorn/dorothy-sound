@@ -20,8 +20,8 @@ title: Dorothy Sound
 
 description: >- # this means to ignore newlines until "baseurl:"
 
-baseurl: "/dorothy-sound"
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://dorothysound.uk" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
