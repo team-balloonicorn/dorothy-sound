@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Dorothy Sound FFS
+title: Dorothy Sound
 
 # email: your-email@example.com
 # >- # this means to ignore newlines until "baseurl:"
@@ -22,7 +22,9 @@ description: "Dorothy Sound is a soundsystem based in Cambridge, UK"
 baseurl: ""
 url: "https://dorothysound.uk" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/icons/dorothyLogo.png
-sub-title: "Dorothy Sound is a soundsystem based in Cambridge, UK. Owned and run by audiophiles, we love nothing more than seeing smiling faces on the dance floor." 
+sub-title: "Dorothy Sound is a soundsystem based in Cambridge, UK. Owned and run by audiophiles, we love nothing more than seeing smiling faces on the dance floor."
+
+permalink: pretty
 
 # Build settings
 markdown: kramdown

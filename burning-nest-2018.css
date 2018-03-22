@@ -1,0 +1,10 @@
+.burning-nest-logo {
+  margin-bottom: 15px;
+}
+
+@media (min-width: 550px) {
+  .burning-nest-logo {
+    float: right;
+    max-width: 300px;
+  }
+}
